@@ -126,25 +126,25 @@ Steps:
 
 ### Customer Tenure Distribution
 
-![Tenure Distribution](Images/Tenure Distribution.png)
+![Tenure Distribution](Images/Tenure_Distribution.png)
 
 ---
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/Feature_Importance.png)
 
 ---
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Images/Confusion_Matrix.png)
 
 ---
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](Images/ROC_Curve.png)
 
 ---
 
