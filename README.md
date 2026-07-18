@@ -120,7 +120,7 @@ Steps:
 
 ### Customer Churn Distribution
 
-![Churn Distribution](Images/churn_distribution.png)
+![Churn Distribution](Images/Churn Distribution.png)
 
 ---
 
