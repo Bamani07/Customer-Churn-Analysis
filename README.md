@@ -126,7 +126,7 @@ Steps:
 
 ### Customer Tenure Distribution
 
-![Tenure Distribution](images/tenure_distribution.png)
+![Tenure Distribution](Images/Tenure Distribution.png)
 
 ---
 
